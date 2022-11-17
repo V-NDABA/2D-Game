@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1590107501 source:c:\users\user\documents\school\computer science\ndaba_v_219056102_csc1a10_2020_p09\library.cpp
+	"LIBRARY.h"
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<cassert>
+
+1590104704 c:\users\user\documents\school\computer science\ndaba_v_219056102_csc1a10_2020_p09\library.h
+	<sstream>
+	<cctype>
+	<iostream>
+	<stdlib.h>
+
+1590105545 source:c:\users\user\documents\school\computer science\ndaba_v_219056102_csc1a10_2020_p09\main.cpp
+	<iostream>
+	"LIBRARY.h"
+
